@@ -1,0 +1,29 @@
+@import "~antd/dist/antd.css";
+
+body {
+	margin: 0;
+}
+
+.bg-white {
+	background: white;
+}
+
+.logo {
+	height: 32px;
+	background: rgba(0,0,0,0.1);
+	margin: 16px;
+}
+
+.menu {
+	border-right: none;
+}
+
+.siderbar {
+	background: white;
+	border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+.menu-title {
+	padding: 10px 22px;
+	background-color: #f2f2f2;
+}
